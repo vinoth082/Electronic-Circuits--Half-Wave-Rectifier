@@ -54,7 +54,8 @@ HALF WAVE RECTIFIER WITH FILTER
 HALF WAVE RECTIFIER WITHOUT FLITER
 ![WhatsApp Image 2025-11-22 at 15 01 58_27f85995](https://github.com/user-attachments/assets/8b00ef3f-f9e5-426b-a517-4606ff84a946)
 HALF WAVE RECTIFIER WITH FILTER
-![Uploading WhatsApp Image 2025-11-22 at 15.07.12_482f0fd1.jpg…]()
+![WhatsApp Image 2025-11-22 at 14 59 39_1b001faf](https://github.com/user-attachments/assets/78213f32-1c49-4895-b3bb-8b318bba66aa)
+
 
 
 ## RESULT:
