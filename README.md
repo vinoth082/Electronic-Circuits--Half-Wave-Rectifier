@@ -59,3 +59,5 @@ HALF WAVE RECTIFIER WITH FILTER
 
 
 ## RESULT:
+![WhatsApp Image 2025-11-29 at 10 27 13_dbe2483a](https://github.com/user-attachments/assets/3f608966-5387-4001-a43f-75d3e6bf6df4)
+
